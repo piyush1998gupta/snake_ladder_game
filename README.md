@@ -5,6 +5,7 @@
 
  ### ----------Board indexing Format how giti moves ---------
    eg :-  6*6
+   
         36 35 34 33 32 31 
         
         25 26 27 28 29 30 
@@ -15,7 +16,10 @@
         
         12 11 10 9  8  7
   
-  home  1  2  3  4  5  6
+        1  2  3  4  5  6
+        
+        home to be considered as left side of the 1 
+        
 ### ----------------------------------------
 
 

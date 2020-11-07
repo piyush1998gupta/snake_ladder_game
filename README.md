@@ -18,7 +18,7 @@
   
         1  2  3  4  5  6
         
-        home to be considered as left side of the 1 
+home to be considered as left side of the 1 
         
 ### ----------------------------------------
 
@@ -32,6 +32,8 @@
   if value is greater than index than ladder
   
   if value is less than index than snake
+  
+  ### -------------------------------
 
  eg:
 
@@ -39,7 +41,7 @@
  
  ladder - (5,23) , (10,32)
  
-'''
+
  -1  -1  16  -1  -1  -1
  
  -1  -1  -1  -1  -1  -1
@@ -51,9 +53,9 @@
  -1  -1  32  -1  -1  -1
  
  -1  -1  -1  -1  23  -1
- '''
+
  
- # Rules
+ # Rules :-
   ### 1 . player open its gits only on 1 or 6 
   ### 2. player gets another chance when it gets 6 on dice or cuts the git of another player
   ### 3 player which giti cutted move to home and start from the beginnig

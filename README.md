@@ -2,7 +2,8 @@
  Automatic Snake ladder game showing each move taken by each player
  
 ## Run game.py to start the game
- 
+
+# Documentation
 
  ### ----------Board indexing Format how giti moves ---------
    eg :-  6*6
